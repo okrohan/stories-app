@@ -1,1 +1,1 @@
-export * from './containers/Stories';
+export * from './components/Stories';
